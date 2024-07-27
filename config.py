@@ -1,5 +1,5 @@
 # config.py
-
+import openai
 # API keys and credentials
 OPENAI_API_KEY = 'your-openai-api-key'
 
